@@ -57,7 +57,7 @@ kubectl apply -f deployment.yaml
 kubectl apply -f load-balancer-service.yaml
 kubectl get all
 
-
+![Screenshot from browser](https://user-images.githubusercontent.com/119735396/218252505-b101e4a5-9517-4c8a-9a1a-54645c2b6c24.png)
 
 
 
